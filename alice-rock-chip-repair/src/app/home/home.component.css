@@ -1,0 +1,40 @@
+.container {
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: #d9534f;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  .btn-danger {
+    margin-top: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: 600px; /* Adjust this value to fit your design */
+    object-fit: cover; /* Ensures the image maintains proportions */
+    border-radius: 10px;
+  }
+
+  .phone-number {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .phone-number a {
+    text-decoration: none;
+    color: #d9534f;
+  }
+  
+  .phone-number a:hover {
+    color: #a94442;
+  }
+  
+  
+  
